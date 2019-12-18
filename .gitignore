@@ -102,3 +102,4 @@ schedule_outp*
 
 /dist
 
+*.egg-info
