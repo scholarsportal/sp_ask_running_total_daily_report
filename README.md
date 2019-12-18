@@ -31,3 +31,4 @@ This is a screenshot. We don't provide our daily stats to the public. The number
 3.  Add docstring
 4.  Add a Makefile
 5.  Add show terminal graph for a given month
+6.  Create a .rst file and add metadata for 
