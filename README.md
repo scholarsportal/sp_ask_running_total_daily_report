@@ -17,3 +17,9 @@ for month_number in range(1, 13):
 
 ### Screenshot
 [![screenshot of app](screenshots/screenshot2.png)]
+
+
+### Todo
+1.  Test
+2.  Refactor
+3.  Add docstring
