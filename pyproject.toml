@@ -22,7 +22,6 @@ classifiers = [
 'Programming Language :: Python :: Implementation :: PyPy'
 ]
 
-
 [tool.poetry.dependencies]
 python = "^3.7"
 pdbpp = "^0.10.2"
