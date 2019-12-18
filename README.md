@@ -21,7 +21,7 @@ for month_number in range(1, 13):
 Will create a file **'2-February.xlsx'** on the current directory
 
 ### Screenshot
-This is a screenshot. We don't provide our daily stats to the public. The number below was updated.
+This is a screenshot. We don't provide our daily stats to the public. The number below were updated to fake our real numbers.
 ![screenshot of app](screenshots/screenshot2.png)
 
 
