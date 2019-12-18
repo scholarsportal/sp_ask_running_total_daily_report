@@ -29,3 +29,5 @@ This is a screenshot. We don't provide our daily stats to the public. The number
 1.  Test
 2.  Refactor
 3.  Add docstring
+4.  Add a Makefile
+5.  Add show terminal graph for a given month
