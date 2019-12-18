@@ -103,3 +103,4 @@ schedule_outp*
 /dist
 
 *.egg-info
+.DS_Store
