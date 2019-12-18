@@ -1,7 +1,7 @@
 [tool.poetry]
 name = "sp_ask_running_total_daily_report"
-version = "0.1.0"
-description = ""
+version = "0.1.5"
+description = "An helper that create and Excel document representing the number of chats per day"
 authors = ["Guinsly Mondesir <guinslym@gmail.com>"]
 
 [tool.poetry.dependencies]
