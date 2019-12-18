@@ -1,0 +1,7 @@
+StyleFrame<3.0,>=2.0
+ask_academic_dates<0.3.0,>=0.2.3
+ask_schools<0.3.0,>=0.2.4
+lh3api<0.3.0,>=0.2.0
+pandas<0.26.0,>=0.25.3
+pdbpp<0.11.0,>=0.10.2
+xlrd<2.0,>=1.2
