@@ -12,7 +12,6 @@ ask_academic_dates = "^0.2.3"
 pandas = "^0.25.3"
 ask_schools = "^0.2.4"
 xlrd = "^1.2"
-StyleFrame = "^2.0"
 XlsxWriter = "^1.2"
 
 [tool.poetry.dev-dependencies]
