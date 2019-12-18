@@ -6,10 +6,20 @@ authors = ["Guinsly Mondesir <guinslym@gmail.com>"]
 readme = "README.md"
 homepage = "https://github.com/guinslym/sp_ask_running_total_daily_report"
 repository = "https://github.com/guinslym/sp_ask_running_total_daily_report"
+license = "MIT"
+
 classifiers = [
-    "Topic :: Software Development :: Build Tools",
-    "Topic :: Software Development :: Libraries :: Python Modules"
+	"Intended Audience :: Developers",
+	"Development Status :: 3 - Alpha",
+	"License :: OSI Approved :: MIT License",
+	"Operating System :: OS Independent",
+    "Topic :: Software Development :: Libraries",
+    'Programming Language :: Python',
+    'Programming Language :: Python :: 3.7',
+    'Programming Language :: Python :: Implementation :: CPython',
+    'Programming Language :: Python :: Implementation :: PyPy'
 ]
+
 
 [tool.poetry.dependencies]
 python = "^3.7"
