@@ -18,7 +18,7 @@ create_report(2019, 2)
 for month_number in range(1, 13):
     create_report(2019, month_number)
 ```
-Will create a file '2-February.xlsx' on the current directory
+Will create a file **'2-February.xlsx'** on the current directory
 
 ### Screenshot
 ![screenshot of app](screenshots/screenshot2.png)
