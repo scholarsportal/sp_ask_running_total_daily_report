@@ -4,6 +4,7 @@ version = "0.1.6"
 description = "An helper that create and Excel document representing the number of chats per day"
 authors = ["Guinsly Mondesir <guinslym@gmail.com>"]
 readme = "README.md"
+keywords = ["Ask", "Scholars Portal", "Clavardez", "OCUL", "Chats", "LibraryH3lp"]
 homepage = "https://github.com/guinslym/sp_ask_running_total_daily_report"
 repository = "https://github.com/guinslym/sp_ask_running_total_daily_report"
 license = "MIT"
