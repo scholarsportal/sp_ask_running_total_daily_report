@@ -14,7 +14,7 @@ or with poetry
 ==============
 Utilisation
 ==============
-    ```python
+    
     from sp_ask_running_total_daily_report import create_report
 
     # generating stats for a given month (february)
@@ -23,7 +23,7 @@ Utilisation
     #generating stats for all months
     for month_number in range(1, 13):
         create_report(2019, month_number)
-    ```
+    
 Will create a file **'2-February.xlsx'** on the current directory
 
 ==============
