@@ -16,4 +16,4 @@ for month_number in range(1, 13):
 ```
 
 ### Screenshot
-[![screenshot of app](https://s3.amazonaws.com/uifaces/faces/twitter/guinslym/128.jpg)](screenshots/screenshot3.png)
+[![screenshot of app](screenshots/screenshot3.png)]
