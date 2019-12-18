@@ -16,7 +16,7 @@ for month_number in range(1, 13):
 ```
 
 ### Screenshot
-[![screenshot of app](screenshots/screenshot2.png)
+![screenshot of app](screenshots/screenshot2.png)
 
 
 ### Todo
