@@ -7,7 +7,35 @@ An helper that create and Excel document representing the number of chats per da
     $ or with poetry
     $ poetry add sp_ask_running_total_daily_report
 
-### Utilisation
+
+## Requirement
+
+lh3api is a requirement for this package[ lh3api configuation files](https://gitlab.com/libraryh3lp/libraryh3lp-sdk-python/) need to be installed first.
+
+
+In ~/.lh3/config::
+
+    [default]
+    server = libraryh3lp.com
+    timezone = UTC
+    salt = "you should probably change this"
+
+The `salt` is used when generating system-level utility accounts.
+This is not something you do often.  If your `salt` is unique, your
+passwords will be unique.
+
+In ~/.lh3/credentials::
+
+    [default]
+    username = <ADMIN_USER>
+    password = <ADMIN_PASS>
+
+    [test]
+    username = <TEST_USER>
+    password = <TEST_PASS>
+
+
+### Usage
 ```python
 from sp_ask_running_total_daily_report import create_report
 
@@ -31,4 +59,4 @@ This is a screenshot. We don't provide our daily stats to the public. The number
 3.  Add docstring
 4.  Add a Makefile
 5.  Add show terminal graph for a given month
-6.  Create a .rst file and add metadata for 
+6.  Create a .rst file and add metadata for pypi 
